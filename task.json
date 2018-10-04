@@ -1,0 +1,87 @@
+{
+    "id": 1535982807,
+    "owner": "admincat",
+    "name": "Lliga Catalana 2018-09-30",
+    "start_time": 43200,
+    "finish_time": 50400,
+    "competition": true,
+    "start_point_type": "exit",
+    "distance": 25019.701076697,
+    "distance_optimized": 25019.701076699,
+    "goal_type": "cylinder",
+    "goal_time": 50400,
+    "turnpoints": [
+        {
+            "lat": 42.332586,
+            "lon": -0.608877,
+            "name": "D99128",
+            "alt": 1284,
+            "description": "Desp Loarre",
+            "radius": 400,
+            "type": "sn",
+            "time": null,
+            "latLng": {
+                "lat": 42.332586,
+                "lng": -0.60887700000001
+            },
+            "fastPoint": {
+                "lat": 42.332586,
+                "lng": -0.60887700000001
+            }
+        },
+        {
+            "lat": "42.332586",
+            "lon": "-0.608877",
+            "name": "D99128",
+            "alt": "1284",
+            "description": "Desp Loarre",
+            "radius": 1000,
+            "type": "sss",
+            "time": 50400,
+            "latLng": {
+                "lat": 42.332586,
+                "lng": -0.60887700000001
+            },
+            "fastPoint": {
+                "lat": 42.324106241373,
+                "lng": -0.60486655208183
+            }
+        },
+        {
+            "lat": "42.156649",
+            "lon": "-0.419946",
+            "name": "L22048",
+            "alt": "489",
+            "description": "Huesca Norte",
+            "radius": 1000,
+            "type": "ess",
+            "time": null,
+            "latLng": {
+                "lat": 42.156649,
+                "lng": -0.41994599999998
+            },
+            "fastPoint": {
+                "lat": 42.163674482505,
+                "lng": -0.4274981333815
+            }
+        },
+        {
+            "lat": "42.156649",
+            "lon": "-0.419946",
+            "name": "L22048",
+            "alt": "489",
+            "description": "Huesca Norte",
+            "radius": 600,
+            "type": "sn",
+            "time": null,
+            "latLng": {
+                "lat": 42.156649,
+                "lng": -0.41994599999998
+            },
+            "fastPoint": {
+                "lat": 42.163674482505,
+                "lng": -0.4274981333815
+            }
+        }
+    ]
+}
